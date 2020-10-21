@@ -1,5 +1,5 @@
 {
-    "items": [
+    "filmes": [
         {
             "title": "Jaw",
             "year": "1975"
@@ -8,6 +8,12 @@
         {
             "title": "Bacurau",
             "year": "2019"
+        }
+    ],
+    "series": [
+        {
+            "title": "The Office",
+            "temporada": "7"
         }
     ]
 }
